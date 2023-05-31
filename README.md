@@ -18,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width='75px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width='60px' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width='60px'/>   
+  <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width='60px'/>
 </div>
 
 # 📊 GitHub Stats:
