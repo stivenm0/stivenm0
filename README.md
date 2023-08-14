@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Programador interesado en el desarrollo web.<br>📖Actualmente estudio Ingeniería de Sistemas.<br>💡Cuento con conocimiento en el área de Frontend.
+💻Programador interesado en el desarrollo web.<br>📖Actualmente estudio Desarrollo Web.<br>💡Cuento con conocimiento en el área de Frontend.
 
 
 ## 🌐 Socials:
