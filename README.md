@@ -8,7 +8,7 @@ Soy un desarrollador backend con experiencia en el uso de Laravel para la creaci
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/stivenm_0) 
 
 ## 👨‍💻 Tecnologías
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,alpinejs,tailwindcss,php,laravel,mysql,react,git,vscode,livewire)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,alpinejs,tailwindcss,php,laravel,mysql,react,vue,git,vscode,livewire)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=stivenm0&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
